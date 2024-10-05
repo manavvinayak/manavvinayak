@@ -1,4 +1,4 @@
-- 👋 **Hi, I’m Vinayak Narayan**
+- 👋 **Hi,  I’m Vinayak Narayan**
 - ![coding image](https://github.com/user-attachments/assets/66d31b14-e762-4cc7-86be-e62ad3b0a392)
 
 - 👀 I’m interested in solving data structures and algo questions,as well as love to do *webdev*.
