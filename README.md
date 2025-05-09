@@ -13,12 +13,15 @@ Welcome to my GitHub profile repository! Here's a little about me:
 
 ## 🌐 Connect with Me
 - [GitHub Profile](https://github.com/manavvinayak)
+- [Linkedin Profile](https://www.linkedin.com/in/cdvinayak-437bb4228/)
+- [Product Hunt Profile](https://www.producthunt.com/@vinayak_narayan)
+- [Unstop Profile](https://unstop.com/u/vinaysri1821)
 
 ---
 ✨ *This README was created to showcase my GitHub profile. Feel free to explore my repositories!* ✨
 - **How to reach me:**
 - **Email**: narayanvinayak95@gmail.com
-- **LinkedIn**: https://www.linkedin.com/in/cdvinayak-437bb4228/ 
+
 
 ⚡ **Fun fact**: The first computer bug was actually a moth stuck in a computer at Harvard in 1842!
 They jokingly called it a "debugging" process.
