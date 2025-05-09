@@ -10,6 +10,9 @@ Welcome to my GitHub profile repository! Here's a little about me:
 
 ## 📈 GitHub Stats
 ![Manav Vinayak's GitHub stats](https://github-readme-stats.vercel.app/api?username=manavvinayak&show_icons=true&theme=radical)
+##  GitHub 🔥
+![Vinayak's GitHub Streak](https://streak-stats.demolab.com?user=manavvinayak&theme=radical&hide_border=true)
+
 
 ## 🌐 Connect with Me
 - [GitHub Profile](https://github.com/manavvinayak)
