@@ -9,9 +9,7 @@
 <div align="center">
   <table>
     <tr>
-      <td>
-      ![Manav Vinayak's GitHub stats](https://github-readme-stats.vercel.app/api?username=manavvinayak&show_icons=true&theme=radical)
-      </td>
+         ![Manav Vinayak's GitHub stats](https://github-readme-stats.vercel.app/api?username=manavvinayak&show_icons=true&theme=radical)
       <td>
        ## 📊 Most Used Languages
       ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manavvinayak&layout=compact&theme=radical)
