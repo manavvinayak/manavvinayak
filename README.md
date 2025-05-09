@@ -1,4 +1,19 @@
 - # 👋 Hi,  I’m Vinayak Narayan
+## 🚀 Tech Stack
+
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
+![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+
+![HTML5](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
+![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow)
+![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
+![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)
+
+![Google Analytics](https://img.shields.io/badge/Google%20Analytics-orange?style=for-the-badge&logo=google-analytics)
 
 
 Welcome to my GitHub profile repository! Here's a little about me:
